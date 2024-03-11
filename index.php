@@ -1,6 +1,6 @@
 <?php
 session_start();
-require 'dbconn.php'
+require 'dbconn.php';
 ?>
 
 <?php include('./assets/header.php'); ?>
